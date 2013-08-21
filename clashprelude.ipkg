@@ -1,0 +1,6 @@
+package clashprelude
+
+modules = CLaSH.Prelude,
+          CLaSH.Default,
+          CLaSH.Signal,
+          CLaSH.Prelude.Vect
